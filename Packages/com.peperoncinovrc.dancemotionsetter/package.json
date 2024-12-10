@@ -1,0 +1,19 @@
+{
+  "name": "com.peperoncinovrc.dancemotionsetter",
+  "displayName": "DanceMotionSetter",
+  "version": "1.2.0",
+  "description": "https://docs.google.com/document/u/1/d/e/2PACX-1vTqrk9FGuLyU3PANLtgCJC4xgaeGGCgAf2t4odC8PfirkQ3CPrJi17U24z4lAZ6sx4b3f-2YtLfnspp/pub",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars":">=3.4.2"
+  },
+  "author": {
+    "name": "PeperoncinoVRC",
+    "email": "peperoncino.vrc@gmail.com",
+    "url": "https://x.com/PeperoncinoMVRC"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "Packages\\com.peperoncinovrc.dancemotionsetter",
+  "unity": "2019.4"
+}
